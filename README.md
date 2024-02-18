@@ -1,4 +1,4 @@
 # pruebas-git
 repo para aprender a utilizar git
-##descripcion
+## descripcion
 aqui vamos a poder desarrollar pruebas para git
